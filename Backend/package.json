@@ -27,7 +27,8 @@
     "mongoose": "^8.8.3",
     "nodemailer": "^6.9.16",
     "nodemon": "^3.1.7",
-    "timeout": "^0.2.1"
+    "timeout": "^0.2.1",
+    "@rollup/rollup-linux-x64-gnu":"4.9.5"
   },
 "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu":"4.9.5"
